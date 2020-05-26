@@ -1,0 +1,24 @@
+_repo: On-the-Processes-for-the-Production-of-Ex-Libris-Book-Plates_62127
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Vinycomb, John
+    gutenberg_agent_id: '40836'
+    url: http://www.gutenberg.org/2009/agents/40836
+description: ''
+gutenberg_issued: '2020-05-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62127'
+  lccn: '42046773'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Engraving -- Technique'
+- !lcc 'Z'
+- !lcsh 'Bookplates'
+- GITenberg
+title: On the Processes for the Production of Ex Libris (Book-Plates)
+url: http://www.gutenberg.org/ebooks/62127
